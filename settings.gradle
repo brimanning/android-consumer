@@ -1,0 +1,6 @@
+rootProject.name='Consumer'
+
+include ':app'
+include ':foundation'
+
+project(':foundation').projectDir = new File('android-foundation/foundation')

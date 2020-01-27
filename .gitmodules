@@ -1,0 +1,4 @@
+[submodule "android-foundation"]
+	path = android-foundation
+	url = https://github.com/brimanning/android-foundation.git
+	branch = master
