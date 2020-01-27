@@ -8,4 +8,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="FoundationIcon">
+        <item name="android:src">@drawable/ic_cloud_done</item>
+        <item name="android:tint">@color/colorPrimaryDark</item>
+    </style>
+
 </resources>
